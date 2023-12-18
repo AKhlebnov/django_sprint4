@@ -1,6 +1,4 @@
 from django import forms
-from django.core.exceptions import ValidationError
-from django.core.mail import send_mail
 
 from .models import Comment, Post
 

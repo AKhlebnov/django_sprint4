@@ -29,6 +29,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
+    'www.khlebnov.pythonanywhere.com',
+    'khlebnov.pythonanywhere.com',
 ]
 
 
